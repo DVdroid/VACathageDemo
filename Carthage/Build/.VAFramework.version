@@ -1,0 +1,10 @@
+{
+  "commitish" : "1.5.1",
+  "iOS" : [
+    {
+      "name" : "VAFramework",
+      "hash" : "25f2692d9f4340a3bdab7f6a2a90e656503cad9f3176e7d0773bdac468fa598e",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}

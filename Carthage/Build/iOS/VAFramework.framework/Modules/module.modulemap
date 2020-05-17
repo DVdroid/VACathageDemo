@@ -1,0 +1,11 @@
+framework module VAFramework {
+  umbrella header "VAFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module VAFramework.Swift {
+    header "VAFramework-Swift.h"
+    requires objc
+}
